@@ -3,7 +3,7 @@ package practice;
 public class armstrong_number {
 
 	public static void main(String[] args) {
-            int num=37;
+            int num=153;
             int temp=num;
             int r=0;
             int sum=0;
