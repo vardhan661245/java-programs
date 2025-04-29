@@ -17,11 +17,10 @@ public class example {
 			  else if (ch == 'b') 
 			  {
 				  countB++; } 
-			  else if 
-			  (ch == 'c') 
+			  else if (ch == 'c') 
 			  {
 		      countC++;
-		  } 
+		       } 
 			  }
 		  
 		  System.out.println("a appears: " + countA + " times");
